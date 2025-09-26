@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 112}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 942
+  controlID: 1162
   draggingID: 0
 --- !u!114 &2
 MonoBehaviour:
@@ -565,9 +565,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -38.03512, y: 4.2689805, z: 28.54246}
+    m_Target: {x: -74.53444, y: 6.8481603, z: 19.82545}
     speed: 2
-    m_Value: {x: -38.03512, y: 4.2689805, z: 28.54246}
+    m_Value: {x: -74.53444, y: 6.8481603, z: 19.82545}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -613,9 +613,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.039873894, y: -0.12290378, z: -0.0049612243, w: 0.99164224}
+    m_Target: {x: -0.044465087, y: 0.74776196, z: 0.050309304, w: 0.6606245}
     speed: 2
-    m_Value: {x: -0.03839209, y: -0.1214189, z: -0.004719076, w: 0.9918474}
+    m_Value: {x: -0.043546166, y: 0.74681455, z: 0.049120273, w: 0.6617847}
   m_Size:
     m_Target: 4.2578826
     speed: 2
@@ -677,7 +677,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 112}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 943
+  controlID: 1163
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -704,7 +704,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 56}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 944
+  controlID: 1164
   draggingID: 0
 --- !u!114 &5
 MonoBehaviour:
@@ -775,10 +775,11 @@ MonoBehaviour:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs:
-      - m_Data: 51880
+      - m_Data: 138188
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
+      - m_Data: -118022
       - m_Data: -83778
       - m_Data: -70696
       - m_Data: -70270
@@ -789,6 +790,7 @@ MonoBehaviour:
       - m_Data: -5124
       - m_Data: -4274
       - m_Data: -1298
+      - m_Data: 126630
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1048,7 +1050,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 56}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 1028
+  controlID: 1203
   draggingID: 0
 --- !u!114 &12
 MonoBehaviour:
@@ -1400,7 +1402,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/PolygonSciFiCity/Scenes
+    - Assets/SimpleMilitary/Scenes
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1410,7 +1412,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/PolygonSciFiCity/Scenes
+  - Assets/SimpleMilitary/Scenes
   m_LastFoldersGridSize: 96
   m_LastProjectPath: /mnt/5f79a6c2-0764-4cd7-88b4-12dbd1b39909/SyntyHumble5
   m_LockTracker:
@@ -1418,13 +1420,14 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
     m_SelectedIDs:
-    - m_Data: 97084
+    - m_Data: 138262
     m_LastClickedID:
-      m_Data: 97084
+      m_Data: 138262
     m_ExpandedIDs:
     - m_Data: 0
     - m_Data: 53446
     - m_Data: 87628
+    - m_Data: 138244
     - m_Data: 1000000000
     - m_Data: 2147483647
     m_RenameOverlay:
@@ -1489,9 +1492,9 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
     m_SelectedInstanceIDs:
-    - m_Data: 51880
-    m_LastClickedInstanceID: 51880
-    m_HadKeyboardFocusLastEvent: 0
+    - m_Data: 138188
+    m_LastClickedInstanceID: 138188
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs:
     - m_Data: 742
     m_RenameOverlay:
@@ -1511,7 +1514,7 @@ MonoBehaviour:
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_TrimLeadingAndTrailingWhitespace: 0
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 15}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
