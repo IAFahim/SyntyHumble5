@@ -10,7 +10,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2361064994872436444, guid: 6e641dec95dfc44169e385857e39d31a, type: 3}
       propertyPath: m_Name
-      value: HUD_Minimap_Dial_Minimal
+      value: HUD_Apocalypse_Minimap_Dial_01
       objectReference: {fileID: 0}
     - target: {fileID: 2361064994872436444, guid: 6e641dec95dfc44169e385857e39d31a, type: 3}
       propertyPath: m_IsActive

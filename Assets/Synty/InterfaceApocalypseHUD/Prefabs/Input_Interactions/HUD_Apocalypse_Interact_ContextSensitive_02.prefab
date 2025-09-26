@@ -38,7 +38,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3881687657502562237, guid: 90a91288dbe094a10a3a5bb2d48eec47, type: 3}
       propertyPath: m_Name
-      value: HUD_Interact_ContextSensitive_Hold Variant
+      value: HUD_Apocalypse_Interact_ContextSensitive_02
       objectReference: {fileID: 0}
     - target: {fileID: 4440671436223584068, guid: 90a91288dbe094a10a3a5bb2d48eec47, type: 3}
       propertyPath: m_AnchorMax.y

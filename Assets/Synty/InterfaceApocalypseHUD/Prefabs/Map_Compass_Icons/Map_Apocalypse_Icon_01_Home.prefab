@@ -10,7 +10,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2578781753770651911, guid: 77872bd69a1b5f2479e35b9016fdf93d, type: 3}
       propertyPath: m_Name
-      value: Map_Icon_MASTER
+      value: Map_Apocalypse_Icon_01_Home
       objectReference: {fileID: 0}
     - target: {fileID: 8901176906612004644, guid: 77872bd69a1b5f2479e35b9016fdf93d, type: 3}
       propertyPath: m_Pivot.x

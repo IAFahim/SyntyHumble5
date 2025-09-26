@@ -34,7 +34,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 937264385854521943, guid: d69f8eca75981460ca4e35b2dd67c449, type: 3}
       propertyPath: m_Name
-      value: HUD_Subtitles_CC
+      value: HUD_Apocalypse_Subtitles_02
       objectReference: {fileID: 0}
     - target: {fileID: 1875149491188201087, guid: d69f8eca75981460ca4e35b2dd67c449, type: 3}
       propertyPath: m_Pivot.x

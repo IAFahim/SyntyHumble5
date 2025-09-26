@@ -434,7 +434,7 @@ CanvasGroup:
   m_IgnoreParentGroups: 0
 --- !u!95 &7758541402532071524
 Animator:
-  serializedVersion: 5
+  serializedVersion: 7
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -448,6 +448,7 @@ Animator:
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
   m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
@@ -566,11 +567,11 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4234631062865803441, guid: 7cd1b3e95bbbd3846884788537ccf753, type: 3}
-      propertyPath: uiElements.Array.data[3]
+      propertyPath: 'uiElements.Array.data[3]'
       value: 
       objectReference: {fileID: 0}
     - target: {fileID: 4234631062865803441, guid: 7cd1b3e95bbbd3846884788537ccf753, type: 3}
-      propertyPath: uiElements.Array.data[4]
+      propertyPath: 'uiElements.Array.data[4]'
       value: 
       objectReference: {fileID: 0}
     - target: {fileID: 4379754894912862706, guid: 7cd1b3e95bbbd3846884788537ccf753, type: 3}

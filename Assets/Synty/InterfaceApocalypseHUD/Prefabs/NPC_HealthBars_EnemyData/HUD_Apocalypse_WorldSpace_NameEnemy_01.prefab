@@ -14,7 +14,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5479740452197293634, guid: 44d870a126e69aa49b155e73baf85bf7, type: 3}
       propertyPath: m_Name
-      value: HUD_WorldSpace_NameEnemy
+      value: HUD_Apocalypse_WorldSpace_NameEnemy_01
       objectReference: {fileID: 0}
     - target: {fileID: 6137567145659909148, guid: 44d870a126e69aa49b155e73baf85bf7, type: 3}
       propertyPath: m_text

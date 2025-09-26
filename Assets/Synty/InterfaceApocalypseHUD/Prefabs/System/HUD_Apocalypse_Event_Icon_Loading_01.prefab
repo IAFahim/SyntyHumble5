@@ -142,7 +142,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4131331669377056208, guid: a1efe13be08234132b2b0decc5432dd2, type: 3}
       propertyPath: m_Name
-      value: HUD_Event_Loading_Icon Variant
+      value: HUD_Apocalypse_Event_Icon_Loading_01
       objectReference: {fileID: 0}
     - target: {fileID: 6079293342404372577, guid: a1efe13be08234132b2b0decc5432dd2, type: 3}
       propertyPath: m_IsActive

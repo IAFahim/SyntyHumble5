@@ -580,7 +580,7 @@ RectTransform:
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &7116413723708152393
 Animator:
-  serializedVersion: 5
+  serializedVersion: 7
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -594,6 +594,7 @@ Animator:
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
   m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
@@ -1943,10 +1944,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 585200220410257994}
     m_Modifications:
-    - target: {fileID: 2141758341279222625, guid: a510671e2d107a94db3a0618bc9f254a, type: 3}
-      propertyPath: m_text
-      value: 03
-      objectReference: {fileID: 0}
     - target: {fileID: 177511757699979615, guid: cd31e69bdded37f4b8a80ecacfff6c14, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -2070,6 +2067,10 @@ PrefabInstance:
     - target: {fileID: 8550129024333821791, guid: cd31e69bdded37f4b8a80ecacfff6c14, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: -40.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2141758341279222625, guid: a510671e2d107a94db3a0618bc9f254a, type: 3}
+      propertyPath: m_text
+      value: 03
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2261,10 +2262,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 3916103515083312841}
     m_Modifications:
-    - target: {fileID: 2141758341279222625, guid: a510671e2d107a94db3a0618bc9f254a, type: 3}
-      propertyPath: m_text
-      value: 01
-      objectReference: {fileID: 0}
     - target: {fileID: 177511757699979615, guid: cd31e69bdded37f4b8a80ecacfff6c14, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -2396,6 +2393,10 @@ PrefabInstance:
     - target: {fileID: 8550129024333821791, guid: cd31e69bdded37f4b8a80ecacfff6c14, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: -40.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2141758341279222625, guid: a510671e2d107a94db3a0618bc9f254a, type: 3}
+      propertyPath: m_text
+      value: 01
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

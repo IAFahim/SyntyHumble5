@@ -14,7 +14,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2578781753770651911, guid: 77872bd69a1b5f2479e35b9016fdf93d, type: 3}
       propertyPath: m_Name
-      value: Map_Icon_Objective Variant
+      value: Map_Apocalypse_Icon_01_Objective
       objectReference: {fileID: 0}
     - target: {fileID: 7283713291688300968, guid: 77872bd69a1b5f2479e35b9016fdf93d, type: 3}
       propertyPath: m_Sprite
